@@ -1,4 +1,4 @@
-# AI Random Roam - Unreal Engine
+# EX 06 AI Random Roam - Unreal Engine
 
 ## Aim
 To implement an AI character in Unreal Engine that roams randomly within a defined area using Behavior Trees and Navigation Mesh.
@@ -55,3 +55,5 @@ To implement an AI character in Unreal Engine that roams randomly within a defin
 
 
 ## Result
+
+The AI character successfully roams within the defined NavMesh area, choosing random destinations at intervals using the Behavior Tree logic.
